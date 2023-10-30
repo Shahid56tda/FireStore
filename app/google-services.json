@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "717470040558",
+    "firebase_url": "https://firstorecurdoperation-default-rtdb.firebaseio.com",
+    "project_id": "firstorecurdoperation",
+    "storage_bucket": "firstorecurdoperation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717470040558:android:7602140310736a5ab1ceff",
+        "android_client_info": {
+          "package_name": "com.example.chatappinkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2ZbMhAnB_lUWcunniuiuzbq5jCPXPI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717470040558:android:f4684d6755ae2866b1ceff",
+        "android_client_info": {
+          "package_name": "com.example.chatfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2ZbMhAnB_lUWcunniuiuzbq5jCPXPI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717470040558:android:bf1b9d7bc7182c4ab1ceff",
+        "android_client_info": {
+          "package_name": "com.example.firestorefetchdatainkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2ZbMhAnB_lUWcunniuiuzbq5jCPXPI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717470040558:android:b8199827160aca60b1ceff",
+        "android_client_info": {
+          "package_name": "com.example.firstorecurdoperation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2ZbMhAnB_lUWcunniuiuzbq5jCPXPI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717470040558:android:ae52be9d0090738bb1ceff",
+        "android_client_info": {
+          "package_name": "com.example.mygrossarystore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2ZbMhAnB_lUWcunniuiuzbq5jCPXPI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
